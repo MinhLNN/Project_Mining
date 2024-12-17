@@ -30,7 +30,7 @@ Dataset Link: [2019 Airline Delays w/Weather and Airport Detail](https://www.kag
 
 Lê Nguyễn Nhật Minh - lnnm121103@gmail.com
 
-Project Link: [https://github.com/UIT21522338/Project_Mining](https://github.com/UIT21522338/Project_Mining)
+Project Link: [https://github.com/MinhLNN/Project_Mining](https://github.com/MinhLNN/Project_Mining)
 
 
 
